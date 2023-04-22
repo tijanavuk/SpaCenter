@@ -7,7 +7,7 @@ Graduation thesis on the topic "Development of a software system for monitoring 
 
 Verbal model:
 
-Software represents a system for monitoring the operation of the spa center. A software system enables easier storage and management of data. Records are kept about employees, customers, services, loyalty programs, receipts, payment methods, categories, and roles that the employee can have.
+This software represents a system for monitoring the operation of the spa center. A software system enables easier storage and management of data. Records are kept about employees, customers, services, loyalty programs, receipts, payment methods, categories, and roles that the employee can have.
 The users of the system are employees from the spa center. There are two types of employees, an ordinary employee and an employee who has an admin role. Admins are able to use more functionality than ordinary employees.
 The services consist of various treatments, massages, and face and body care.
 Clients represent registered users of the spa center. Regular clients can take advantage of the loyalty program that allows them to use the spa center at more favorable prices.
