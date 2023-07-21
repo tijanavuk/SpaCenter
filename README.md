@@ -1,8 +1,18 @@
 # SpaCenter
 Graduation thesis on the topic "Development of a software system for monitoring the operation of the SPA center using .NET technology".
 
+Key Features:
 
+Client-Server Architecture: The application operates using a client-server model.
 
+Socket Communication: To ensure robust and secure communication, the application employs socket technology. Sockets facilitate the efficient exchange of information between the client and server parts of the program, enabling real-time updates and notifications.
+
+Model-View-Controller (MVC) Pattern: The application is built following the industry-standard Model-View-Controller pattern. This design approach separates the application into three distinct components:
+
+Model: The model handles data management and processing, ensuring that all information is accurately stored and updated.
+View: The view represents the user interface, allowing clients to interact with the application intuitively and conveniently.
+Controller: The controller acts as an intermediary between the model and view, managing user inputs, processing requests, and updating the model accordingly.
+Through the MVC pattern, the application achieves enhanced maintainability, scalability, and flexibility, making it easier to adapt to future requirements and advancements.
 
 
 Verbal model:
