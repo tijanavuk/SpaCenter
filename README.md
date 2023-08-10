@@ -3,6 +3,8 @@ Graduation thesis on the topic "Development of a software system for monitoring 
 
 Key Features:
 
+Windows Presentation Foundation was used to develop the application.
+
 Client-Server Architecture: The application operates using a client-server model.
 
 Socket Communication: To ensure robust and secure communication, the application employs socket technology. Sockets facilitate the efficient exchange of information between the client and server parts of the program, enabling real-time updates and notifications.
